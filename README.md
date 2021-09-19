@@ -4,6 +4,8 @@
 # toy
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/joaobtj/toy/workflows/R-CMD-check/badge.svg)](https://github.com/joaobtj/toy/actions)
 <!-- badges: end -->
 
 The goal of toy is to …

@@ -15,3 +15,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 URL: https://github.com/joaobtj/toy
 BugReports: https://github.com/joaobtj/toy/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

@@ -1,13 +1,13 @@
 Package: toy
-Title: What the Package Does (One Line, Title Case)
+Title: My package for tests
 Version: 0.0.0.9001
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Joao",
+           family = "Tolentino",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "joao.tolentino@ufsc.br",
+           comment = c(ORCID = "0000-0003-1303-4202"))
+Description: Its a test package
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
